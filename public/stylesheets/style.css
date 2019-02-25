@@ -1,0 +1,15 @@
+.card img{
+  max-height: 150px;
+  max-width: 150px;
+}
+
+.card description{
+  color: #7f7f7f;
+}
+
+.price{
+  float: right;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 5px;
+}
